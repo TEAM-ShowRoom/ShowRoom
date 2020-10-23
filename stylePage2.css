@@ -1,0 +1,33 @@
+.container{
+width: 100vw;
+height: 100vh;
+background-color: lightblue;
+
+}
+body{
+    margin-top: -1%;
+}
+
+.cover {
+    margin-bottom: 10%;
+    width: 80vw;
+    margin: 30px auto 0;
+}
+
+.cover img  {
+    width: 20vw;
+   margin: 0 auto;
+    display: block;
+}
+
+.txt {
+    width: 60vh;
+    margin: 20px auto 0;
+}
+
+h1 {
+    width: 2vw;
+    margin:  0 auto;
+    display: block;
+    color: red;
+}
