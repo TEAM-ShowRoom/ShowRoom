@@ -1,0 +1,15 @@
+body {
+    background-image: url(./images/New\ folder/Abstract-background-white-12.jpg);
+}
+
+.container {
+    width: 100vw;
+    display: block;
+    margin: 0 auto;
+
+}
+.secImg img {
+    width: 19vw;
+    height: 40vh;
+    margin: 0 auto;
+}
