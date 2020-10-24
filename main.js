@@ -3,9 +3,9 @@ let room = {
 }
 
 
-var text = document.querySelector(".control").value;
 
 function search (){
+    var text = document.querySelector(".control").value;
     let x;
     for (let key in room){
         if (text === key){
