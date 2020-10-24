@@ -1,0 +1,61 @@
+body {
+    background-image: url(./images/New\ folder/Abstract-background-white-12.jpg);
+}
+
+
+
+.cover {
+    width: 80vw;
+    margin: 30px auto 0;
+}
+
+.cover img  {
+    width: 25vw;
+    margin: 0 auto;
+    display: block;
+}
+
+.txt {
+    width: 80vw;
+    margin: 0px auto 0;
+}
+
+.txt h1 {
+    font-family: monospace;
+    width: 9vw;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 40px;
+    color: red;
+}
+
+.txt p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    width: 50vw;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.imgIn {
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+
+.imgIn img {
+    width: 29vw;  
+    height: 350px;  
+}
+
+.home {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    width: 50vw;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+

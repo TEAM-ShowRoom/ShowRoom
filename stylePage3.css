@@ -11,5 +11,6 @@ body {
 .secImg img {
     width: 19vw;
     height: 40vh;
-    margin: 0 auto;
+    margin-left:0px;
+    margin-bottom: 5px;
 }

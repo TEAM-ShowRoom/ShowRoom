@@ -1,5 +1,6 @@
 let room = {
-    AssassinsCreedValhalla :'page2.html'
+    AssassinsCreedValhalla :'page2.html',
+    InTime : 'InTime.html'
 }
 
 
@@ -11,9 +12,8 @@ function search (){
         if (text === key){
             console.log(x)
             x=room[key];
-            console.log(x);
             location.assign (x);
         }
-        else alert('we do not have this feature yet')
+        
     }
 }
